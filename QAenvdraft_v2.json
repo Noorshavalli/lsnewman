@@ -1,0 +1,221 @@
+{
+	"id": "bd8bd531-999f-4f97-86d5-e9ab5a77b790",
+	"name": "QA envdraft",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://qaapi.lojack.com",
+			"enabled": true
+		},
+		{
+			"key": "x-app-key",
+			"value": "ab4b4d99-93d4-4239-af59-96587839991c",
+			"enabled": true
+		},
+		{
+			"key": "lsuser",
+			"value": "zd.shaval.li+321@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "x-app-key-pioneer",
+			"value": "17095c5e-3d31-49a9-84d0-17f6d6b463ac",
+			"enabled": true
+		},
+		{
+			"key": "base_url123",
+			"value": "https://qaapi.lojack.com",
+			"enabled": true
+		},
+		{
+			"key": "DeviceId",
+			"value": 127498,
+			"enabled": true
+		},
+		{
+			"key": "DeviceIds",
+			"value": [
+				127499
+			],
+			"enabled": true
+		},
+		{
+			"key": "Base_Url",
+			"value": "https://qaapi.lojack.com",
+			"enabled": true
+		},
+		{
+			"key": "bauth",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoVG9rZW4iOiJRbTA0VmxsVUpUSkNlbk5SZWpnMVJHVm5UU1V5Um10TllVRWxNMFFsTTBRNlVXaFFabWMyTWpOYVIxTlpjbVJHTkUwNFlrMHdVU1V6UkNVelJBIiwidXNlcklkIjozNjkwNCwiYWNjb3VudElkIjo1NDA3LCJwYXJlbnRBY2NvdW50SWQiOjUzMjQsImZpcnN0TmFtZSI6IlNocmFkaGExIiwibGFzdE5hbWUiOiJWYXJzaG5leSIsInVzZXJuYW1lIjoic2hyYWRoYS52YXJzaG5leUBhbHRyYW4uY29tIiwiZW1haWwiOiJzaHJhZGhhLnZhcnNobmV5QGFsdHJhbi5jb20iLCJyb2xlcyI6Ilt7XCJocmVmXCI6XCJodHRwczovL3FhLmNvbm5lY3QuY2FsYW1wLmNvbTo0NDMvY29ubmVjdC9zZXJ2aWNlcy9yb2xlcy8yNTYzXCIsXCJyZWxcIjpcInJvbGVcIixcInRpdGxlXCI6XCJTdXJlRHJpdmUgQWRtaW4gVXNlclwiLFwic3RhdHVzXCI6XCJFbmFibGVkXCJ9LHtcImhyZWZcIjpcImh0dHBzOi8vcWEuY29ubmVjdC5jYWxhbXAuY29tOjQ0My9jb25uZWN0L3NlcnZpY2VzL3JvbGVzLzI4NDBcIixcInJlbFwiOlwicm9sZVwiLFwidGl0bGVcIjpcIkxvdFNtYXJ0IEFkbWluIFVzZXJcIixcInN0YXR1c1wiOlwiRW5hYmxlZFwifV0iLCJ4QXBwS2V5IjoiMTcwOTVjNWUtM2QzMS00OWE5LTg0ZDAtMTdmNmQ2YjQ2M2FjIiwiaWF0IjoxNTc0MDExMjc1fQ.GRLLguzysm7MUy0pNWh5TiFD3zkTVI8_auCQHnKnjAA",
+			"enabled": true
+		},
+		{
+			"key": "lojackbauth",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoVG9rZW4iOiJWRGRNUlRCblVreHVSM2syUzNjeUpUSkdWekpHVUd0bkpUTkVKVE5FT2tGb1RuQkVkV0p2UkhSaFdVOWFKVEpHTm5KR09HWXpRU1V6UkNVelJBIiwidXNlcklkIjozNjkwNCwiYWNjb3VudElkIjo1NDA3LCJwYXJlbnRBY2NvdW50SWQiOjUzMjQsImZpcnN0TmFtZSI6IlNocmFkaGExIiwibGFzdE5hbWUiOiJWYXJzaG5leSIsInVzZXJuYW1lIjoic2hyYWRoYS52YXJzaG5leUBhbHRyYW4uY29tIiwiZW1haWwiOiJzaHJhZGhhLnZhcnNobmV5QGFsdHJhbi5jb20iLCJyb2xlcyI6Ilt7XCJocmVmXCI6XCJodHRwczovL3FhLmNvbm5lY3QuY2FsYW1wLmNvbTo0NDMvY29ubmVjdC9zZXJ2aWNlcy9yb2xlcy8yNTYzXCIsXCJyZWxcIjpcInJvbGVcIixcInRpdGxlXCI6XCJTdXJlRHJpdmUgQWRtaW4gVXNlclwiLFwic3RhdHVzXCI6XCJFbmFibGVkXCJ9LHtcImhyZWZcIjpcImh0dHBzOi8vcWEuY29ubmVjdC5jYWxhbXAuY29tOjQ0My9jb25uZWN0L3NlcnZpY2VzL3JvbGVzLzI4NDBcIixcInJlbFwiOlwicm9sZVwiLFwidGl0bGVcIjpcIkxvdFNtYXJ0IEFkbWluIFVzZXJcIixcInN0YXR1c1wiOlwiRW5hYmxlZFwifV0iLCJ4QXBwS2V5IjoiYWI0YjRkOTktOTNkNC00MjM5LWFmNTktOTY1ODc4Mzk5OTFjIiwiaWF0IjoxNTc0MDExNjUyfQ.TvUulqkfD_Y-EWUPR-iODCkx09JVHXT_7xd6PjhRdTg",
+			"enabled": true
+		},
+		{
+			"key": "strip_token_id",
+			"value": "tok_1FlR0jIJ33MTHa37YDjBlSh2",
+			"enabled": true
+		},
+		{
+			"key": "sd_customer_id",
+			"value": 114,
+			"enabled": true
+		},
+		{
+			"key": "public_key",
+			"value": "pk_test_HRJxbCQ23Oj42pcAL939YmgE00X2Dhrx13",
+			"enabled": true
+		},
+		{
+			"key": "sku",
+			"value": "LSD-SD-3YR",
+			"enabled": true
+		},
+		{
+			"key": "amount",
+			"value": "225",
+			"enabled": true
+		},
+		{
+			"key": "sd_vin",
+			"value": "test7186asset64",
+			"enabled": true
+		},
+		{
+			"key": "lslojackusername",
+			"value": "zd.sha.va.lli+2019@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "Sure@123",
+			"enabled": true
+		},
+		{
+			"key": "plslojackuser",
+			"value": "zdsh.va.ll.i+342@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "variable_key",
+			"value": "variable_value",
+			"enabled": true
+		},
+		{
+			"key": "password_wrng",
+			"value": "Sure@1234",
+			"enabled": true
+		},
+		{
+			"key": "xappkey",
+			"value": "ab4b4d99-93d4-4239-af59-96587839991c",
+			"enabled": true
+		},
+		{
+			"key": "accountId1",
+			"value": "5585",
+			"enabled": true
+		},
+		{
+			"key": "sdcomptaskid",
+			"value": "2e626aad-9056-4c59-b0e3-865ab59daf5e",
+			"enabled": true
+		},
+		{
+			"key": "sdfailtaskid",
+			"value": "ec022ced-8568-4e09-ba83-61bbbb6e47f6",
+			"enabled": true
+		},
+		{
+			"key": "lojackadminuser",
+			"value": "zdsha.va.ll.i+489@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "lojackadminuserId",
+			"value": 44596,
+			"enabled": true
+		},
+		{
+			"key": "lojackadminassistuser",
+			"value": "zdsha.va.ll.i+971@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "lojacksalesuser",
+			"value": "zdsha.va.ll.i+951@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "lojacksalesuserId",
+			"value": 44592,
+			"enabled": true
+		},
+		{
+			"key": "lojackmanageruser",
+			"value": "zdsha.va.ll.i+973@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "lojackmanageruserId",
+			"value": 44593,
+			"enabled": true
+		},
+		{
+			"key": "lojackmanagerassistuser",
+			"value": "zdsha.va.ll.i+173@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "lojackmanagerassistuserId",
+			"value": 44594,
+			"enabled": true
+		},
+		{
+			"key": "lojackadminassistuserId",
+			"value": 44595,
+			"enabled": true
+		},
+		{
+			"key": "dealerdeviceId",
+			"value": "127426",
+			"enabled": true
+		},
+		{
+			"key": "sddeviceId",
+			"value": "116975",
+			"enabled": true
+		},
+		{
+			"key": "assetdetails",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "ACCID",
+			"value": "[5585]",
+			"enabled": true
+		},
+		{
+			"key": "numberofvehicles",
+			"value": 100,
+			"enabled": true
+		},
+		{
+			"key": "devicelist",
+			"value": "\"127123,127138,127150,127154,127156,127158,127162,127164,127166,127125,127127,127168,127170,127174,127176,127178,127180,127182,127184,127187,127189,127191,127193,127195,127198,127200,127203,127205,127207,127209,127219,127221,127223,127225,127227,127229,127231,127233,127235,127238,127240,127242,127244,127248,127250,127252,127210,127212,127214,127216,127254,127256,127259,127260,127262,127264,127266,127269,127271,127274,127276,127279,127280,127283,127284,127286,127287,127288,127289,127290,127292,127293,127294,127295,127296,127301,127307,127311,127315,127316,127317,127318,127320,127325,127327,127331,127332,127333,127334,127335,127336,127337,127338,127339,127340,127341,127342,127343,127344,127348\"",
+			"enabled": true
+		},
+		{
+			"key": "assetlist",
+			"value": "100127,100142,100155,100159,100161,100166,100170,100172,100174,100128,100130,100177,100179,100184,100187,100189,100191,100193,100196,100198,100200,100202,100204,100206,100208,100211,100213,100215,100218,100220,100231,100233,100235,100237,100239,100241,100243,100245,100247,100249,100251,100253,100255,100257,100259,100261,100221,100223,100225,100228,100263,100265,100267,100268,100270,100272,100274,100276,100280,100283,100285,100287,100289,100291,100292,100293,100294,100295,100296,100297,100298,100300,100302,100303,100305,100308,100313,100318,100325,100327,100328,100330,100332,100337,100339,100343,100344,100345,100346,100347,100348,100349,100350,100351,100352,100353,100354,100355,100356,100360",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-01-05T01:57:16.958Z",
+	"_postman_exported_using": "Postman/7.14.0"
+}
