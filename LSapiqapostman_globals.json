@@ -1,0 +1,99 @@
+{
+	"id": "146e52f0-fd32-4814-8e58-8a3c0f4d5eb7",
+	"values": [
+		{
+			"key": "authtoken_key",
+			"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoVG9rZW4iOiJKVEpDY3psNVFreG9TbHBwUkhkcFVYVnRkblI2VlhaM0pUTkVKVE5FT2s1TkpUSkdhaVV5Um5SUldTVXlSa2hrVVU5RlJsQXhaRXhXZUhjbE0wUWxNMFEiLCJ1c2VySWQiOjIyNTMyLCJhY2NvdW50SWQiOjU0MDcsInBhcmVudEFjY291bnRJZCI6NTMyNCwiZmlyc3ROYW1lIjoiZmlybmEiLCJsYXN0TmFtZSI6InNlY29kbiIsInVzZXJuYW1lIjoiemQuc2hhLnZhLmxsaSsyMDE5QGdtYWlsLmNvbSIsImVtYWlsIjoiemQuc2hhLnZhLmxsaSsyMDE5QGdtYWlsLmNvbSIsInJvbGVzIjoiW3tcImhyZWZcIjpcImh0dHBzOi8vcWEuY29ubmVjdC5jYWxhbXAuY29tOjQ0My9jb25uZWN0L3NlcnZpY2VzL3JvbGVzLzI1NjNcIixcInJlbFwiOlwicm9sZVwiLFwidGl0bGVcIjpcIlN1cmVEcml2ZSBBZG1pbiBVc2VyXCIsXCJzdGF0dXNcIjpcIkVuYWJsZWRcIn0se1wiaHJlZlwiOlwiaHR0cHM6Ly9xYS5jb25uZWN0LmNhbGFtcC5jb206NDQzL2Nvbm5lY3Qvc2VydmljZXMvcm9sZXMvMjg0MFwiLFwicmVsXCI6XCJyb2xlXCIsXCJ0aXRsZVwiOlwiTG90U21hcnQgQWRtaW4gVXNlclwiLFwic3RhdHVzXCI6XCJFbmFibGVkXCJ9XSIsInhBcHBLZXkiOiJhYjRiNGQ5OS05M2Q0LTQyMzktYWY1OS05NjU4NzgzOTk5MWMiLCJpYXQiOjE1Nzc4MjAzMTV9.1Z9l7ZdbkYy-PraggaqSnMY6Cw564urEP1Vhgx6nyoc",
+			"enabled": true
+		},
+		{
+			"key": "applications1",
+			"value": "SureDrive",
+			"enabled": true
+		},
+		{
+			"key": "applications2",
+			"value": "Lotsmart Password",
+			"enabled": true
+		},
+		{
+			"key": "bearer_key",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoVG9rZW4iOiJNbUZyTmtoclYyNVdSRkI0YTFGVk9WUm5iRW8zUVNVelJDVXpSRHBRZFU5UFdqRTJjMGw1Y0d4a2NtNDRRMlZxZFdsbkpUTkVKVE5FIiwidXNlcklkIjoxOTAyOCwiYWNjb3VudElkIjo1NDA3LCJwYXJlbnRBY2NvdW50SWQiOjUzMjQsImZpcnN0TmFtZSI6ImxvamFja0NUQ2Z1c3IiLCJsYXN0TmFtZSI6IlZGU1ZDMG9FIiwidXNlcm5hbWUiOiJ6ZHNoYS52YWxsaSsxOTc2QGdtYWlsLmNvbSIsImVtYWlsIjoiemRzaGEudmFsbGkrMTk3NkBnbWFpbC5jb20iLCJyb2xlcyI6Ilt7XCJocmVmXCI6XCJodHRwczovL3FhLmNvbm5lY3QuY2FsYW1wLmNvbTo0NDMvY29ubmVjdC9zZXJ2aWNlcy9yb2xlcy8yNTYzXCIsXCJyZWxcIjpcInJvbGVcIixcInRpdGxlXCI6XCJTdXJlRHJpdmUgQWRtaW4gVXNlclwiLFwic3RhdHVzXCI6XCJFbmFibGVkXCJ9LHtcImhyZWZcIjpcImh0dHBzOi8vcWEuY29ubmVjdC5jYWxhbXAuY29tOjQ0My9jb25uZWN0L3NlcnZpY2VzL3JvbGVzLzI4NDBcIixcInJlbFwiOlwicm9sZVwiLFwidGl0bGVcIjpcIkxvdFNtYXJ0IEFkbWluIFVzZXJcIixcInN0YXR1c1wiOlwiRW5hYmxlZFwifV0iLCJ4QXBwS2V5IjoiYWI0YjRkOTktOTNkNC00MjM5LWFmNTktOTY1ODc4Mzk5OTFjIiwiaWF0IjoxNTY2MjE1OTQzfQ.2cnUDyeIhaoH3i7dWf2Ew3FY7Gk2zIo2EDK0a1euZug",
+			"enabled": true
+		},
+		{
+			"key": "bearer_token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoVG9rZW4iOiJKVEpDY3psNVFreG9TbHBwUkhkcFVYVnRkblI2VlhaM0pUTkVKVE5FT2s1TkpUSkdhaVV5Um5SUldTVXlSa2hrVVU5RlJsQXhaRXhXZUhjbE0wUWxNMFEiLCJ1c2VySWQiOjIyNTMyLCJhY2NvdW50SWQiOjU0MDcsInBhcmVudEFjY291bnRJZCI6NTMyNCwiZmlyc3ROYW1lIjoiZmlybmEiLCJsYXN0TmFtZSI6InNlY29kbiIsInVzZXJuYW1lIjoiemQuc2hhLnZhLmxsaSsyMDE5QGdtYWlsLmNvbSIsImVtYWlsIjoiemQuc2hhLnZhLmxsaSsyMDE5QGdtYWlsLmNvbSIsInJvbGVzIjoiW3tcImhyZWZcIjpcImh0dHBzOi8vcWEuY29ubmVjdC5jYWxhbXAuY29tOjQ0My9jb25uZWN0L3NlcnZpY2VzL3JvbGVzLzI1NjNcIixcInJlbFwiOlwicm9sZVwiLFwidGl0bGVcIjpcIlN1cmVEcml2ZSBBZG1pbiBVc2VyXCIsXCJzdGF0dXNcIjpcIkVuYWJsZWRcIn0se1wiaHJlZlwiOlwiaHR0cHM6Ly9xYS5jb25uZWN0LmNhbGFtcC5jb206NDQzL2Nvbm5lY3Qvc2VydmljZXMvcm9sZXMvMjg0MFwiLFwicmVsXCI6XCJyb2xlXCIsXCJ0aXRsZVwiOlwiTG90U21hcnQgQWRtaW4gVXNlclwiLFwic3RhdHVzXCI6XCJFbmFibGVkXCJ9XSIsInhBcHBLZXkiOiJhYjRiNGQ5OS05M2Q0LTQyMzktYWY1OS05NjU4NzgzOTk5MWMiLCJpYXQiOjE1Nzc4MjAzMTV9.1Z9l7ZdbkYy-PraggaqSnMY6Cw564urEP1Vhgx6nyoc",
+			"enabled": true
+		},
+		{
+			"key": "accountId",
+			"value": "5407",
+			"enabled": true
+		},
+		{
+			"key": "accId",
+			"value": "5407",
+			"enabled": true
+		},
+		{
+			"key": "sd_acc",
+			"value": "zdsha.val.li+1888@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "sd_deviceid",
+			"value": 127536,
+			"enabled": true
+		},
+		{
+			"key": "sd_accid",
+			"value": "18676",
+			"enabled": true
+		},
+		{
+			"key": "version",
+			"value": "1",
+			"enabled": true
+		},
+		{
+			"key": "sdversion",
+			"value": "2",
+			"enabled": true
+		},
+		{
+			"key": "authrization_token",
+			"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoVG9rZW4iOiJkR05OUkRsbk1qTkJaREIxWlZoTkpUSkdKVEpHYkVGU1JsRWxNMFFsTTBRNlVHdHhaRkppVUcxNlRVOW1hMUp4V1RBM1NuSkpkeVV6UkNVelJBIiwidXNlcklkIjoyMjUzMiwiYWNjb3VudElkIjo1NDA3LCJwYXJlbnRBY2NvdW50SWQiOjUzMjQsImZpcnN0TmFtZSI6ImZpcm5hIiwibGFzdE5hbWUiOiJzZWNvZG4iLCJ1c2VybmFtZSI6InpkLnNoYS52YS5sbGkrMjAxOUBnbWFpbC5jb20iLCJlbWFpbCI6InpkLnNoYS52YS5sbGkrMjAxOUBnbWFpbC5jb20iLCJyb2xlcyI6Ilt7XCJocmVmXCI6XCJodHRwczovL3FhLmNvbm5lY3QuY2FsYW1wLmNvbTo0NDMvY29ubmVjdC9zZXJ2aWNlcy9yb2xlcy8yNTYzXCIsXCJyZWxcIjpcInJvbGVcIixcInRpdGxlXCI6XCJTdXJlRHJpdmUgQWRtaW4gVXNlclwiLFwic3RhdHVzXCI6XCJFbmFibGVkXCJ9LHtcImhyZWZcIjpcImh0dHBzOi8vcWEuY29ubmVjdC5jYWxhbXAuY29tOjQ0My9jb25uZWN0L3NlcnZpY2VzL3JvbGVzLzI4NDBcIixcInJlbFwiOlwicm9sZVwiLFwidGl0bGVcIjpcIkxvdFNtYXJ0IEFkbWluIFVzZXJcIixcInN0YXR1c1wiOlwiRW5hYmxlZFwifV0iLCJ4QXBwS2V5IjoiYWI0YjRkOTktOTNkNC00MjM5LWFmNTktOTY1ODc4Mzk5OTFjIiwiaWF0IjoxNTc3ODE1Njc2fQ.RcpgbLg2lAEZqTX4oqyR9N8DYHSecfVTbgO-cSQ_G7M",
+			"enabled": true
+		},
+		{
+			"key": "useradmin",
+			"value": "{\"user\":{\"firstName\":\"29gakzsdc6k\",\"lastName\":\"h9ggh8kwj9\",\"email\":\"zdsha.va.ll.i+489@gmail.com\",\"phoneNumbers\":[{\"phoneNumber\":\"8309458309\",\"phoneType\":\"WORK\"}],\"username\":\"zdsha.va.ll.i+489@gmail.com\",\"roles\":[{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/2563\",\"rel\":\"role\",\"title\":\"SureDrive Admin User\",\"status\":\"Enabled\"},{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/2840\",\"rel\":\"role\",\"status\":\"Enabled\",\"title\":\"LotSmart Admin User\"}],\"applications\":[{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/ab4b4d99-93d4-4239-af59-96587839991c\"},{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/d1bddf4e-efe3-494e-996c-72813d5d969e\"}],\"account\":{\"href\":\"https://qa.connect.calamp.com:443/connect/services/accounts/5407\",\"rel\":\"account\",\"title\":\"LoJack CTC\",\"status\":\"Enabled\"}}}",
+			"enabled": true
+		},
+		{
+			"key": "useradminassist",
+			"value": "{\"user\":{\"firstName\":\"68hs8vyv0do\",\"lastName\":\"b4eiayy7ifk\",\"email\":\"zdsha.va.ll.i+971@gmail.com\",\"phoneNumbers\":[{\"phoneNumber\":\"0328409384\",\"phoneType\":\"WORK\"}],\"username\":\"zdsha.va.ll.i+971@gmail.com\",\"roles\":[{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/2563\",\"rel\":\"role\",\"title\":\"SureDrive Admin User\",\"status\":\"Enabled\"},{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/2841\",\"rel\":\"role\",\"status\":\"Enabled\",\"title\":\"LotSmart Admin Assistant\"}],\"applications\":[{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/ab4b4d99-93d4-4239-af59-96587839991c\"},{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/d1bddf4e-efe3-494e-996c-72813d5d969e\"}],\"account\":{\"href\":\"https://qa.connect.calamp.com:443/connect/services/accounts/5407\",\"rel\":\"account\",\"title\":\"LoJack CTC\",\"status\":\"Enabled\"}}}",
+			"enabled": true
+		},
+		{
+			"key": "usersales",
+			"value": "{\"user\":{\"firstName\":\"uptjux16bxj\",\"lastName\":\"wmu5bf708mn\",\"email\":\"zdsha.va.ll.i+951@gmail.com\",\"phoneNumbers\":[{\"phoneNumber\":\"4532453454\",\"phoneType\":\"WORK\"}],\"username\":\"zdsha.va.ll.i+951@gmail.com\",\"roles\":[{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/2563\",\"rel\":\"role\",\"title\":\"SureDrive Admin User\",\"status\":\"Enabled\"},{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/2842\",\"rel\":\"role\",\"status\":\"Enabled\",\"title\":\"LotSmart Sales\"}],\"applications\":[{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/ab4b4d99-93d4-4239-af59-96587839991c\"},{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/d1bddf4e-efe3-494e-996c-72813d5d969e\"}],\"account\":{\"href\":\"https://qa.connect.calamp.com:443/connect/services/accounts/5407\",\"rel\":\"account\",\"title\":\"LoJack CTC\",\"status\":\"Enabled\"}}}",
+			"enabled": true
+		},
+		{
+			"key": "usermanager",
+			"value": "{\"user\":{\"firstName\":\"9sspviekvve\",\"lastName\":\"07k457v25dyt\",\"email\":\"zdsha.va.ll.i+973@gmail.com\",\"phoneNumbers\":[{\"phoneNumber\":\"4564564645\",\"phoneType\":\"WORK\"}],\"username\":\"zdsha.va.ll.i+973@gmail.com\",\"roles\":[{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/2563\",\"rel\":\"role\",\"title\":\"SureDrive Admin User\",\"status\":\"Enabled\"},{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/5517\",\"rel\":\"role\",\"status\":\"Enabled\",\"title\":\"LotSmart Manager\"}],\"applications\":[{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/ab4b4d99-93d4-4239-af59-96587839991c\"},{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/d1bddf4e-efe3-494e-996c-72813d5d969e\"}],\"account\":{\"href\":\"https://qa.connect.calamp.com:443/connect/services/accounts/5407\",\"rel\":\"account\",\"title\":\"LoJack CTC\",\"status\":\"Enabled\"}}}",
+			"enabled": true
+		},
+		{
+			"key": "usermanagerassist",
+			"value": "{\"user\":{\"firstName\":\"pb093ri9vfj\",\"lastName\":\"jt0g7hflpqf\",\"email\":\"zdsha.va.ll.i+173@gmail.com\",\"phoneNumbers\":[{\"phoneNumber\":\"3095803948\",\"phoneType\":\"WORK\"}],\"username\":\"zdsha.va.ll.i+173@gmail.com\",\"roles\":[{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/2563\",\"rel\":\"role\",\"title\":\"SureDrive Admin User\",\"status\":\"Enabled\"},{\"href\":\"https://qa.connect.calamp.com:443/connect/services/roles/5518\",\"rel\":\"role\",\"status\":\"Enabled\",\"title\":\"LotSmart Manager Assistant\"}],\"applications\":[{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/ab4b4d99-93d4-4239-af59-96587839991c\"},{\"rel\":\"applications\",\"href\":\"https://qa.connect.calamp.com/connect/services/applications/d1bddf4e-efe3-494e-996c-72813d5d969e\"}],\"account\":{\"href\":\"https://qa.connect.calamp.com:443/connect/services/accounts/5407\",\"rel\":\"account\",\"title\":\"LoJack CTC\",\"status\":\"Enabled\"}}}",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2019-12-31T19:58:26.158Z",
+	"_postman_exported_using": "Postman/7.14.0"
+}
