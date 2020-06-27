@@ -12,4 +12,4 @@ Example errortrace:
    at Object.eval sandbox-script.js:4:8).
 
 
-Modify readme functionality +++++ -----
+Modify readme functionality +++++
