@@ -10,3 +10,6 @@ Example errortrace:
         Error message: expected 48752 to deeply equal 22532.
         Stacktrace: AssertionError: expected 48752 to deeply equal 22532
    at Object.eval sandbox-script.js:4:8).
+
+
+Modify readme functionality +++++
