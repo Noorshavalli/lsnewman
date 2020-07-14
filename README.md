@@ -12,3 +12,5 @@ Example errortrace:
 
 read git status message from LS-API
 Modify readme functionality +++++
+
+merging lotsmart recent changes to master branch
