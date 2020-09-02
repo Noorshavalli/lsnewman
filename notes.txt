@@ -1,3 +1,4 @@
+changes are completed
 pm.response.to.have.schema(schema_name) - incorrect
 pm.response.to.have.jsonshema(schema_name) = correct
 
