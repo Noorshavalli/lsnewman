@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+dkfjsldf;kjsdlkfjs
+fkjd;sflsjdfl;kas
+kjfsldkfjsa
+` LotSmartAPI
+=======
 # LotSmartAPI testing
 
 Example errortrace:
@@ -10,3 +16,4 @@ Example errortrace:
         Error message: expected 48752 to deeply equal 22532.
         Stacktrace: AssertionError: expected 48752 to deeply equal 22532
    at Object.eval sandbox-script.js:4:8).
+>>>>>>> b746975abc57917dfb3daa3ef03f27b6feff848d
