@@ -1,4 +1,3 @@
-# LotSmartAPI testing
 
 Example errortrace:
 
@@ -8,9 +7,3 @@ Example errortrace:
         Test description: User_id.
         Error message: expected 48752 to deeply equal 22532.
         Stacktrace: AssertionError: expected 48752 to deeply equal 22532
-   at Object.eval sandbox-script.js:4:8).
-
-read git status message from LS-API
-Modify readme functionality +++++
-
-merging lotsmart recent changes to master branch

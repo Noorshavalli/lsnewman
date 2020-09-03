@@ -1,6 +1,4 @@
-# LotSmartAPI testing
 
-Example errortrace:
 
        ailed 1 times. Collection JSON ID: 877e7edc-fb2b-45bb-9689-e50a7b8b8c7f.
         Collection name: Lotsmart QA API_v1.24.0.
@@ -13,4 +11,3 @@ Example errortrace:
 read git status message from LS-API
 Modify readme functionality +++++
 
-merging lotsmart recent changes to master branch available
